@@ -1,2 +1,4 @@
-this is just a simple text
-another line - added
+1. Create a Base template first with dynamic Header and Footer
+2. Have seperate Main section files for each type 
+3. Pass in data as props and render whatever output is required
+
